@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Carrot",
+    "value": 0
+  },
+  {
+    "label": "Hat",
+    "value": 1
+  },
+  {
+    "label": "Apple",
+    "value": 2
+  },
+  {
+    "label": "Mountain",
+    "value": 3
+  },
+  {
+    "label": "Gaze",
+    "value": 4
+  },
+  {
+    "label": "Joke",
+    "value": 5
+  },
+  {
+    "label": "Axe",
+    "value": 6
+  },
+  {
+    "label": "Rock",
+    "value": 7
+  },
+  {
+    "label": "Thunder",
+    "value": 8
+  },
+  {
+    "label": "Bubble",
+    "value": 9
+  }
+]
